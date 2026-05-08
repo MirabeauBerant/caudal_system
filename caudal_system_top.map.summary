@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Thu Apr 30 00:16:36 2026
+Quartus Prime Version : 24.1std.0 Build 1077 03/04/2025 SC Lite Edition
+Revision Name : caudal_system_top
+Top-level Entity Name : caudal_system_top
+Family : MAX 10
+Total logic elements : 7,187
+    Total combinational functions : 6,997
+    Dedicated logic registers : 605
+Total registers : 605
+Total pins : 19
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 18
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

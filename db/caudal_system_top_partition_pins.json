@@ -1,0 +1,85 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "o_seg[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg[3]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg[4]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg[5]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg[6]",
+					"strict" : false
+				},
+				{
+					"name" : "o_seg[7]",
+					"strict" : false
+				},
+				{
+					"name" : "o_dig[0]",
+					"strict" : false
+				},
+				{
+					"name" : "o_dig[1]",
+					"strict" : false
+				},
+				{
+					"name" : "o_dig[2]",
+					"strict" : false
+				},
+				{
+					"name" : "o_dig[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i_clk_50mhz",
+					"strict" : false
+				},
+				{
+					"name" : "i_rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "i_sw[3]",
+					"strict" : false
+				},
+				{
+					"name" : "i_sw[2]",
+					"strict" : false
+				},
+				{
+					"name" : "i_sw[1]",
+					"strict" : false
+				},
+				{
+					"name" : "i_sw[0]",
+					"strict" : false
+				},
+				{
+					"name" : "i_sensor",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

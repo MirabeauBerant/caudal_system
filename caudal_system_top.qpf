@@ -1,0 +1,4 @@
+QUARTUS_VERSION = "23.1"
+DATE = "2026/04/26 14:10:00"
+
+PROJECT_REVISION = "caudal_system_top"
