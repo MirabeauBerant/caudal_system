@@ -1,0 +1,17 @@
+# Carpetas de Quartus
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+
+# Archivos de reportes y basura
+*.rpt
+*.summary
+*.jdi
+*.pin
+*.done
+*.qws
+*.bak
+*.txt
+*.smsg
